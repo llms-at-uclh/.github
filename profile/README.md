@@ -27,13 +27,16 @@ Our goal: build a community that collaborates, shares, and makes clinical LLM re
 - Virtual Journal Club
 
 🚀 Collaborate, Research, Publish (and implement...)
-- E.g. [Cogstack](https://uclh-criu.github.io/cogstack-docs/)
+- Key collaborting orgs include
+  - [Cogstack](https://uclh-criu.github.io/cogstack-docs/)- Data extraction, technical expertise and funding
+  - [SAFEHR](https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr)- Data goverance and ethics approvals @ UCLH
 
 ## 📂 Projects & Resources
 
 ### 🧪 How to Run an LLM study at UCLH
-- Best practices on data governance, methodology, compute, evaluation etc...
+- Best practices on data governance, methodology, trusted research enviorment, compute, evaluation etc...
 - WIP
+- Main Contact: [Simon Ellershaw](simon.ellershaw.20@ucl.ac.uk)
 
 ### 📝 Discharge Summaries
 Developing a system to automate discharge summaries using large language models guided by clinical guidelines. Completed a proof of concept using publicly available data, and currently conducting a retrospective study within a UCLH.
@@ -41,10 +44,12 @@ Developing a system to automate discharge summaries using large language models 
 Published paper on public (MIMIC-III) data
 - [Code](https://github.com/simonEllershaw/llm-discharge-summaries)
 - [Paper](https://openreview.net/pdf?id=1kDJJPppRG)
+- Main Contact: [Simon Ellershaw](simon.ellershaw.20@ucl.ac.uk)
 
 ### 🗣️ LLM Advice and Guidance
 Prototype (proof‑of‑concept) pipeline for Advice & Guidance generation using a locally hosted MedGemma. The idea is to evaluate LLM outputs on real retrospective queries using UCLH's Trusted Research Environment (TRE).
 - WIP
+- Main Contact: [Justin Healy](justin.healy@nhs.net)
 
 ## 🙌 Get Involved
 

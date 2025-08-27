@@ -1,4 +1,4 @@
-# 🤖 llms-at-uclh 🏥
+# 🤖💬 llms-at-uclh 🏥
 
 Bringing together clinical and technical experts at UCL Hospital (UCLH) + UCL's Institute of Health Informatics (IHI) to **research Large Language Models on real NHS data and tasks**.
 

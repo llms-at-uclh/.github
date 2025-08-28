@@ -16,20 +16,20 @@ Our goal: build a community that collaborates, shares, and makes clinical LLM re
 
 ## 🗓 What We Do
 
-☕ Meet-ups
-- Every other Wednesday 10am IHI (@ 222 Euston Rd)
+### ☕ Meet-ups
+Every other Wednesday 10am IHI (@ 222 Euston Rd)
 
-📖 Docs
-- End to End "How to Run an LLM study at UCLH" (work in progress)
+### 📖 Docs
+End to End "How to Run an LLM study at UCLH" (work in progress)
   
-💬 Slack group
-- Main communication/troubleshooting venue
-- Virtual Journal Club
+### 💬 Slack group
+Main communication/troubleshooting venue
+Virtual Journal Club
 
-🚀 Collaborate, Research, Publish (and implement...)
-- Key collaborting orgs include
-  - [Cogstack](https://uclh-criu.github.io/cogstack-docs/)- Data extraction, technical expertise and funding
-  - [SAFEHR](https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr)- Data goverance and ethics approvals @ UCLH
+### 🚀 Collaborate, Research, Publish (and implement...)
+Key collaborting orgs include
+- [Cogstack](https://uclh-criu.github.io/cogstack-docs/)- Data extraction, technical expertise and funding
+- [SAFEHR](https://www.uclhospitals.brc.nihr.ac.uk/core-themes/safehr)- Data goverance and ethics approvals @ UCLH
 
 ## 📂 Projects & Resources
 

@@ -2,8 +2,6 @@
 
 Bringing together clinical and technical experts at UCL Hospital (UCLH) + UCL's Institute of Health Informatics (IHI) to **research Large Language Models on real NHS data and tasks**.
 
-![llms-at-uclh icon](llm_at_uclh_icon.png)
-
 Together UCLH and the IHI have the people 👩‍⚕️👨‍💻, infrastructure 🏗, and data 📊 to become UK & global leaders in medical LLMs.
 
 Our goal: build a community that collaborates, shares, and makes clinical LLM research happen.

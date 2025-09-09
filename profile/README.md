@@ -6,6 +6,8 @@ Together UCLH and the IHI have the people 👩‍⚕️👨‍💻, infrastructu
 
 Our goal: build a community that collaborates, shares, and makes clinical LLM research happen.
 
+![How to Get LLMs into UCLH -> 1 study at a time](./the_plan.png)
+
 ## 🎯 Aims
 
 ✨ Show cutting edge stuff we have done – demos, prototypes, research.

@@ -67,8 +67,7 @@ Topics ~paraphrased sorry!!!
 
 | Date | Speaker | Topic |
 | :--- | :--- | :--- |
-| 20th May | Eric Zhang | Cultural alignment in LLM outputs for mental health support |
-| 3rd June | Calisha Allen | Qualative Research Best Practices in the an LLM world |
+| 3rd June | Calisha Allen | Qualitative Research 101: Introduction To Qualitative Research Methods |
 | 17th June | George Svarovsky | How to use UCL's Advanced Reasearch Computing Trusted Reasearch Enviorments |
 | 1st July | Igor Tseyzer | From Papers -> Real World Tools with UCL Centre of Digital Inovation |
 | 15th July | Sarah Keating | Medical Research at UCL's Advanced Reasearch Computing |
@@ -80,6 +79,7 @@ Please email [Simon Ellershaw](simon.ellershaw.20@ucl.ac.uk) if you would like t
 
 | Date | Speaker | Topic |
 | :--- | :--- | :--- |
+| 20th May | Eric Zhang | Cultural alignment in LLM outputs for mental health support |
 | 6th May | Simon Ellershaw | Foresight England |
 | 22nd April | Justin Healy | Quantifying LLM clinical risk tolerance |
 | 8th April | Abdine Maiga | Error Detection in Medical Notes using Multi-Agent Debate |
